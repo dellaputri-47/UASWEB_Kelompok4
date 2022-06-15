@@ -1,6 +1,6 @@
-# UASWEB_Kelompok4
+# Project Kelompok 4 Pemrograman WEB
+# Sistem Kasir Berbasis Web
 
-SISTEM KASIR
 Nama Kelompok :
 Della Putri Ananda (202013026) Manager Proyek
 Kefin Trifano (202013034)
