@@ -8,16 +8,8 @@ Khairul Abidin (202013035)
 Putri Atika Dewi Ketaren (202013039)
 Tri Zulham Haifani (20201342)
 
-Progres Tgl 28-06-2002 : Membuat Login dan Dashboard
-Della Putri Ananda : Berhasil membuat login dan dashboard
-Kefin Trifano : Berhasil membuat login dan dashboard
-Khairul Abidin : Berhasil membuat login dan dashboard
-Putri Atika Dewi Ketaren : Berhasil membuat login dan dashboard
-Tri Zulham Haifani : Berhasil membuat login dan dashboard
-
-Progres Tgl 5-07-2002 : Perancangan database
-Della Putri Ananda : Membuat menu data barang masuk
+Della Putri Ananda : Membuat menu data barang keluar
 Kefin Trifano : Membuat menu data kategori barang
-Khairul Abidin : Membuat menu data pengguna, data transaksi, data laporan
+Khairul Abidin : Membuat menu data pengguna, data transaksi.
 Putri Atika Dewi Ketaren : Membuat menu data barang
-Tri Zulham Haifani : Membuat menu data barang keluar
+Tri Zulham Haifani : Membuat menu data barang masuk
